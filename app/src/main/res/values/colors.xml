@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="c333333">#333333</color>
+    <color name="cf3f3f3">#f3f3f3</color>
+    <color name="cffffff">#ffffff</color>
+    <color name="ceeeeee">#eeeeee</color>
+    <color name="c191919">#191919</color>
+    <color name="c000000">#000000</color>
+    <color name="ccbcbcb">#cbcbcb</color>
+    <color name="cde6014">#DE6014</color>
+    <color name="c99ffffff">#99ffffff</color>
+    <color name="c2c2c2c">#2c2c2c</color>
+    <color name="cddcec29c">#DDCEC29C</color>
+    <color name="c2f332d">#2f332d</color>
+    <color name="cccebcc">#ccebcc</color>
+    <color name="c92918c">#92918c</color>
+    <color name="c383429">#383429</color>
+    <color name="cd1cec5">#d1cec5</color>
+    <color name="c627176">#627176</color>
+    <color name="caaaaaa">#aaaaaa</color>
+    <color name="c001c27">#001c27</color>
+    <color name="cec4a48">#ec4a48</color>
+    <color name="c23000000">#23000000</color>
+    <color name="color_51">#515151</color>
+    <color name="ce3e3e3">#e3e3e3</color>
+    <color name="c00000000">#00000000</color>
+    <color name="ccec29c">#cec29c</color>
+</resources>
